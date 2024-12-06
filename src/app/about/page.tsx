@@ -12,11 +12,13 @@ import FeaturesSection from '../components/feature';
 import SupportSection from '../components/section2';
 import WelcomeSection from '../components/welcomesection2';
 import Header from '../components/header2';
+import FeatureSection from '../components/featuring';
+import ProjectSection from '../components/projectsection';
 
 
 const AboutPage = () => {
   return (
-    <><Header/><WelcomeSection/> <BannerRight /><BannerLeft/> <MissionVision/><FooterSection/></>
+    <><Header/><WelcomeSection/> <FeatureSection/><ProjectSection/><FooterSection/></>
 );
 };
 
