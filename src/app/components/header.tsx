@@ -9,7 +9,7 @@ const Header: React.FC = () => {
           <div className="flex-shrink-0">
             <a href="/" title="Home" className="flex">
               <img
-                className="w-auto h-7"
+                className="w-auto h-10"
                 src="/kutakimlogo.jpg"
                 alt="Logo"
               />
