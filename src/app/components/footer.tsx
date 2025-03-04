@@ -15,7 +15,7 @@ const FooterSection: React.FC = () => {
   <p className="text-black text-lg d font-semibold">KUTAKIM</p>
 </div>
             <p className="text-base leading-relaxed text-gray-600 mt-7">
-            Reach beyond the horizon
+            power, strength, light
 
             </p>
             <a
